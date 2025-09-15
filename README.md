@@ -45,6 +45,6 @@ In addition to work, I’m actively involved with **Knight Hacks**, the largest 
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
 
 ## 📬 Let's Connect!
-- 🔗 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/khanh-tran-dev/)
+- 🔗 **LinkedIn**: [Khanh Tran](https://www.linkedin.com/in/khanh-tran-dev/)
 
 Thanks for stopping by :D !! ✨
